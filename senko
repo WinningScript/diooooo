@@ -1,0 +1,2 @@
+local Character = "Dio"
+game:GetService("ReplicatedStorage").Remotes.Starter:FireServer(Character)
